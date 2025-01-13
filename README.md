@@ -1,6 +1,6 @@
 # Hola, soy Abel 👋
 
-[![Abel Suárez Muíño](https://www.linkedin.com/in/abelsrz?trk=profile-badge)](https://www.linkedin.com/in/abelsrz?trk=profile-badge)
+[![Abel Suárez Muíño](https://img.shields.io/badge/LinkedIn-Abel%20Su%C3%A1rez%20Mu%C3%ADo-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abelsrz)
 
 
 ## 📄 Mi portfolio
