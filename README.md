@@ -1,5 +1,8 @@
 # Hola, soy Abel 👋
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="abelsrz" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/abelsrz?trk=profile-badge">Abel Suárez Muíño</a></div>
+              
+
 ## 📄 Mi portfolio
 Puedes ver mi portfolio en [https://suarezmuinho.com](https://suarezmuinho.com)
 
