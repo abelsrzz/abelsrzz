@@ -1,13 +1,2 @@
-# Hola, soy Abel 👋
-
-
-## 📄 Mi portfolio
-Puedes ver mi portfolio en [https://suarezmuinho.com](https://suarezmuinho.com)
-
-## 🚀 Acerca de mí
-Soy un estudiante de informática interesado en la programación, el desarrollo web y la ciberseguridad.
-
-## 📫 Cómo contactarme
-Puedes enviarme un correo a [abelsuarezmuino04@gmail.com](mailto:abelsuarezmuino04@gmail.com)
-
-O contactarme en [LinkedIn](https://www.linkedin.com/in/abelsrz/)
+¡Hola! 👋 Soy Abel, graduado en Administración Sistemas Operativos Informáticos en Red y entusiasta de la ciberseguridad.
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)]([https://www.hackthebox.eu/profile/TU_ID](https://app.hackthebox.com/profile/1673263))
