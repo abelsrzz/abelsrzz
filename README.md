@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Abel
 
-Soy **Abel Suárez Muíño**, graduado en **Administración de Sistemas Operativos Informáticos en Red** y un **entusiasta de la ciberseguridad**. Me apasiona aprender y compartir mis conocimientos sobre tecnologías de seguridad informática y sistemas.
+Soy **Abel Suárez**, graduado en **Administración de Sistemas Operativos Informáticos en Red** y un **entusiasta de la ciberseguridad**. Me apasiona aprender y compartir mis conocimientos sobre tecnologías de seguridad informática y sistemas.
 
 ---
 
