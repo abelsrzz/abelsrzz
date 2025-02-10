@@ -25,6 +25,15 @@ Si tienes alguna duda o deseas ponerte en contacto, puedes escribirme a:
 
 ---
 
+## 📚 Certificados
+
+<p align="center">
+    <img src="img/ceh-v12.png" alt="Imagen 1" width="150" style="display: inline-block; margin-right: 10px;">
+    <img src="img/lpic-1-certification.png" alt="Imagen 2" width="150" style="display: inline-block; margin-right: 10px;">
+</p>
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abelsrzz&layout=compact&theme=transparent&langs_count=8&card_width=700)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abelsrzz&show_icons=true&theme=transparent&card_width=700)
