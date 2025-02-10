@@ -28,8 +28,8 @@ Si tienes alguna duda o deseas ponerte en contacto, puedes escribirme a:
 ## 📚 Certificados
 
 <p align="center">
-    <img src="img/ceh-v12.png" alt="Imagen 1" width="150" style="display: inline-block; margin-right: 10px;">
-    <img src="img/lpic-1-certification.png" alt="Imagen 2" width="150" style="display: inline-block; margin-right: 10px;">
+    <img src="img/ceh-v12.png" alt="Imagen 1" width="70" style="display: inline-block; margin-right: 10px;">
+    <img src="img/lpic-1-certification.png" alt="Imagen 2" width="70" style="display: inline-block; margin-right: 10px;">
 </p>
 
 ---
