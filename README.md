@@ -16,7 +16,7 @@ Puedes ver más información sobre mí en mi [Portfolio web](https://suarezmuinh
 
 ## 🌐 Enlaces
 
-[![Personal Website](https://img.shields.io/badge/Portafolio-1783ff?style=for-the-badge&logoColor=white)](https://suarezmuinho.com) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1673263) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/abelsrzz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelsrz)
+[![Personal Website](https://img.shields.io/badge/Portafolio-1783ff?style=for-the-badge&logoColor=white)](https://suarezmuinho.com) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1673263) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelsrz)
 
 ---
 
