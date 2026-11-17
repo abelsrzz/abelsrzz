@@ -1,41 +1,44 @@
-# ¡Hola! 👋 Soy Abel
-
-Soy **Abel Suárez**, graduado en **Administración de Sistemas Operativos Informáticos en Red** y un **entusiasta de la ciberseguridad**. Me apasiona aprender y compartir mis conocimientos sobre tecnologías de seguridad informática y sistemas.
-
----
-
 <div align="center">
 
-## 🛠️ Habilidades principales
+<a href="https://suarezmuinho.com"><img src="./terminal.svg" alt="Terminal: whoami — Abel Suárez, administrador de sistemas y redes especializado en ciberseguridad y automatización" width="100%"></a>
 
-[![MySkills](https://skillicons.dev/icons?i=linux,python,bash,kali,php,docker,astro,c,mysql,md,powershell,raspberrypi,regex,tailwind,vscode&theme=dark)]()
-
-Puedes ver más información sobre mí en mi [Portfolio web](https://suarezmuinho.com).
-
----
-
-## 🌐 Enlaces
-
-[![Personal Website](https://img.shields.io/badge/Portafolio-1783ff?style=for-the-badge&logoColor=white)](https://suarezmuinho.com) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1673263) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abelsrz)
-
----
-
-Si tienes alguna duda o deseas ponerte en contacto, puedes escribirme a:  
-✉️ [abel@suarezmuinho.com](mailto:abel@suarezmuinho.com)
-
----
-
-## 📚 Certificados
-
-<p align="center">
-    <img src="img/ceh-v12.png" alt="Imagen 1" width="70" style="display: inline-block; margin-right: 10px;">
-    <img src="img/lpic-1-certification.png" alt="Imagen 2" width="69" style="display: inline-block; margin-right: 10px;">
-</p>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abelsrzz&layout=compact&theme=transparent&langs_count=8&card_width=700)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abelsrzz&show_icons=true&theme=transparent&card_width=700)
+<a href="https://suarezmuinho.com"><img src="https://img.shields.io/badge/suarezmuinho.com-1a1b26?style=for-the-badge&logo=gnometerminal&logoColor=7aa2f7" alt="Web"></a> <a href="https://www.linkedin.com/in/abelsrz"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logoColor=7dcfff" alt="LinkedIn"></a> <a href="https://app.hackthebox.com/users/1673263"><img src="https://img.shields.io/badge/Hack_The_Box-1a1b26?style=for-the-badge&logo=hackthebox&logoColor=9ece6a" alt="Hack The Box"></a> <a href="mailto:abel@suarezmuinho.com"><img src="https://img.shields.io/badge/abel@suarezmuinho.com-1a1b26?style=for-the-badge&logo=maildotru&logoColor=bb9af7" alt="Email"></a>
 
 </div>
+
+### `❯ git log --oneline ~/experiencia`
+
+```text
+* a3f9c21 (HEAD -> main) Técnico de sistemas informáticos @ Grupo Isonor   jul 2024 – hoy
+|   [infra]     servidores Windows y Linux, Active Directory, redes, VPN y cloud
+|   [pentest]   pruebas de penetración y análisis de vulnerabilidades
+|   [odoo]      módulos, personalizaciones y herramientas internas de automatización
+|
+* 7be41d0 Prácticas de sistemas y redes @ Plexus Tech                      abr 2024 – jun 2024
+    [redes]     +6000 conmutadores de capa 3 (Telefónica / Xunta de Galicia)
+```
+
+### `❯ cat ~/formacion/grado`
+
+**Grado en Ingeniería Informática** · Universidade da Coruña (UDC) · `[|] en curso`
+
+### `❯ ls -l ~/certificaciones`
+
+```text
+total 4
+-r--r--r-- abel  feb 2025  CEH         Certified Ethical Hacker · EC-Council
+-r--r--r-- abel  ago 2024  LPIC-1      Linux Professional Institute Certification
+-r--r--r-- abel  jun 2023  ASIR        Administración de Sistemas Informáticos en Red
+-r--r--r-- abel  2023      Inglés C1   EOI Santiago de Compostela
+```
+
+### `❯ ls ~/proyectos`
+
+| | |
+|---|---|
+| [**zsh-pentesting-plugin**](https://github.com/abelsrzz/zsh-pentesting-plugin) | Diario por proyecto de los comandos de una auditoría: IPs, hora, código de salida e informes en Markdown, HTML y CSV. `Zsh` `Python` |
+| [**OpenBundle**](https://github.com/abelsrzz/openbundle) · [demo](https://abelsrzz.github.io/openbundle/) | Paquetes de instalación de Windows generados en el navegador, sin subir nada a un servidor. `JavaScript` `PowerShell` `C#` |
+| [**NmapIAnalyze**](https://github.com/abelsrzz/NmapIAnalyze) | Asistente de terminal que interpreta escaneos de Nmap con IA y propone próximos pasos. `Python` `OpenRouter` `Rich` |
+| [**CVE-2019-18818 + CVE-2019-19609**](https://github.com/abelsrzz/CVE-2019-18818_CVE-2019-19609) | Exploit educativo que encadena dos vulnerabilidades de Strapi CMS hasta una reverse shell. `Python` |
+
+<sub>`❯ logout` — Connection to github.com/abelsrzz closed. Si has llegado hasta aquí, prueba la pestaña `+` en <a href="https://suarezmuinho.com">suarezmuinho.com</a>.</sub>
